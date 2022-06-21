@@ -16,6 +16,7 @@ int signal(int x)
     return x;
 }
 
+// hello zainb is pgal
 
 void writer()
 {
